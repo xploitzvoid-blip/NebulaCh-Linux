@@ -1,0 +1,4 @@
+[org/cinnamon/desktop/background]
+picture-uri='file:///usr/share/backgrounds/nebulach/nebulach-main-wallpaper.png'
+picture-uri-dark='file:///usr/share/backgrounds/nebulach/nebulach-main-wallpaper.png'
+picture-options='zoom'

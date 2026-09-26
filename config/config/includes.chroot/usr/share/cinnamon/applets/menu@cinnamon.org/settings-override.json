@@ -1,0 +1,15 @@
+{
+  "menu-custom": {
+    "default": true,
+    "override-props": true
+  },
+  "menu-label": {
+    "default": "",
+    "override-props": true
+  },
+  "menu-icon": {
+    "default": "/usr/share/pixmaps/nebulach-menu-icon.png",
+    "default_icon": "/usr/share/pixmaps/nebulach-menu-icon.png",
+    "override-props": true
+  }
+}

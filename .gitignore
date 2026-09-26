@@ -1,0 +1,26 @@
+# Generated ISO
+*.iso
+
+# Build logs
+*.log
+config/wget-log*
+
+# Live-build generated directories
+config/binary/
+config/cache/
+config/chroot/
+config/.build/
+
+# Live-build generated files
+config/*.modified_timestamps
+config/*.files
+config/*.packages
+config/*.contents
+config/chroot.files
+config/chroot.packages.*
+config/package-lists/
+config/hooks/
+
+# Temporary files
+*.tmp
+*.swp

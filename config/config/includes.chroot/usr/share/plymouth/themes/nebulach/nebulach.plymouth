@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=NebulaCH
+Description=NebulaCH boot splash
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/nebulach
+ScriptFile=/usr/share/plymouth/themes/nebulach/nebulach.script
